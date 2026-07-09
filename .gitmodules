@@ -4,3 +4,9 @@
 [submodule "vendor/cpputest"]
 	path = vendor/cpputest
 	url = https://github.com/cpputest/cpputest.git
+[submodule "vendor/curl"]
+	path = vendor/curl
+	url = https://github.com/curl/curl.git
+[submodule "vendor/jsoncpp"]
+	path = vendor/jsoncpp
+	url = https://github.com/open-source-parsers/jsoncpp.git
